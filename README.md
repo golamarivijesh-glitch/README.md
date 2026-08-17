@@ -5,7 +5,7 @@
 
 <!-- SECTION A: ANIMATED HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Hi+there%2C+I'm+Vijesh+Reddy+%F0%9F%91%8B;Generative+AI+Engineer+%7C+AI+Architect+%7C+Founder;Turning+frontier+models+into+products+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=0284C7&center=true&vCenter=true&width=850&height=60&lines=Hi+there%2C+I'm+Vijesh+Reddy+%F0%9F%91%8B;Generative+AI+Engineer+%7C+AI+Architect+%7C+Founder;Turning+frontier+models+into+products+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -137,21 +137,13 @@ SQL · R · Hive · BM25 · Pinecone · Milvus · Snowflake · BigQuery · Dataf
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=golamarivijesh-glitch&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=golamarivijesh-glitch&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak"/>
+  <img src="https://img.shields.io/github/followers/golamarivijesh-glitch?style=for-the-badge&logo=github&color=0284C7&labelColor=0d1117" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/golamarivijesh-glitch/portfolio?style=for-the-badge&logo=github&color=0284C7&labelColor=0d1117" alt="Portfolio stars"/>
+  <img src="https://img.shields.io/github/last-commit/golamarivijesh-glitch/portfolio?style=for-the-badge&color=0284C7&labelColor=0d1117" alt="Last commit"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=golamarivijesh-glitch&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" width="50%" alt="Top Languages"/>
-</p>
-
----
-
-<!-- SECTION F: GITHUB TROPHIES -->
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=golamarivijesh-glitch&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=golamarivijesh-glitch&theme=tokyonight&hide_border=true" width="60%" alt="GitHub Streak"/>
 </p>
 
 ---
