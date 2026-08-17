@@ -148,6 +148,15 @@ SQL · R · Hive · BM25 · Pinecone · Milvus · Snowflake · BigQuery · Dataf
 
 ---
 
+<!-- SECTION F: GITHUB TROPHIES -->
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=golamarivijesh-glitch&theme=darkhub&no-frame=true&margin-w=4&column=6&title=MultiLanguage,LongTimeUser,NewUser,Commits,Followers,Repositories" alt="GitHub Trophies"/>
+</p>
+
+---
+
 <!-- SECTION G2: EDUCATION -->
 ## 🎓 Education & Certifications
 
