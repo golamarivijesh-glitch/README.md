@@ -142,9 +142,6 @@ SQL · R · Hive · BM25 · Pinecone · Milvus · Snowflake · BigQuery · Dataf
   <img src="https://img.shields.io/github/last-commit/golamarivijesh-glitch/portfolio?style=for-the-badge&color=0284C7&labelColor=0d1117" alt="Last commit"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=golamarivijesh-glitch&theme=tokyonight&hide_border=true" width="60%" alt="GitHub Streak"/>
-</p>
 
 ---
 
